@@ -1,0 +1,2 @@
+dotnet serve.dll
+pause
